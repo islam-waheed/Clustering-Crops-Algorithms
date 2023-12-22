@@ -18,3 +18,5 @@
 ## Hierarchical
 ![image](https://github.com/islam-waheed/Clustering-Crops-Algorithms/assets/83949402/22bf984e-7d0d-46c1-b001-6f2435ee1d0b)
 
+#  Dendogram
+![image](https://github.com/islam-waheed/Clustering-Crops-Algorithms/assets/83949402/c1dfb073-f65a-4b5f-8e1b-8d0a20668548)
